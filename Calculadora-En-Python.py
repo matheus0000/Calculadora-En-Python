@@ -1,0 +1,11 @@
+import time #Tempo
+print("Calculadora-int")
+N1 = int(input("Digitar-numero:"))
+N2 = int(input("Digitar-numero:"))
+valor1 = (N1)
+valor2 = (N2)
+print("_____________________________________")
+resultado = (valor1) + (valor2)
+print((valor1),"+",(valor2),"=",(resultado))
+print("|___________________________________|")
+time.sleep(2)
