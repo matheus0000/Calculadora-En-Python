@@ -1,0 +1,17 @@
+import time #Tempo
+print("|-------------------|")
+a = int(input("|-Digitar-numero--: |"))
+print("|-------------------|")
+b = 100
+valor = (b)
+resultado1 = (b) - (a)
+resultado2 = (b) + (a)
+print("")
+print("--------------------------")
+print((a),"-",(b),"=",(resultado1))
+print("--------------------------")
+print("--------------------------")
+print((a),"+",(b),"=",(resultado2))
+print("--------------------------")
+print("")
+time.sleep(5)
