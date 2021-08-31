@@ -3,7 +3,7 @@ print('Valor-Digitato',('KM'),('='),(a));
 #Valor = ('R$',(0.50),'R$')
 Valor = (0.50)
 b = Valor
-print('Valor-da-Viagen',('Por'),('KM'),('R$'),'=',(b)) 
+print(('R$ 0.50'),('Por'),('Km'),('R$'),'=',(b)) 
 u1 = (b*a)
 print('Valor-da-Viagen',('R$'),'=',(u1))
 
